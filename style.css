@@ -1,0 +1,13 @@
+.rule1 {color:blue;}
+
+aside section p {
+	color: red;
+	font-family: "georgia";
+	text-align: center;
+	line-height: 15px
+}
+
+ul {
+
+color: orange;
+}
